@@ -62,8 +62,10 @@ have you here.
 About me: stuff.
 
 ## Alina Schroeder (VP University Relations)
-
-About me: stuff.
+![](../imgs/alina_profile.jpg){width=50%}
+-Major: Biomedical Engineering
+-Year: Senior
+-Fun Fact: I am obsessed with Corgis.  
 
 ## Akash Patel (VP Finance)
 
